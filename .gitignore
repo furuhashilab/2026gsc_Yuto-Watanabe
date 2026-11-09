@@ -1,0 +1,7 @@
+# Claudeとの作業で保存された一時ファイル（Bingの画像を含むため公開しない）
+Claude outputs/
+
+# OSの一時ファイル
+.DS_Store
+Thumbs.db
+desktop.ini
